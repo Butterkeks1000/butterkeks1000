@@ -13,4 +13,4 @@
 - 📍 Germany
 - 🌱 Currently I am learning HTML & JavaScript
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Butterkeks1000/butterkeks1000?label=Last%20Updated&style=for-the-badge">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Butterkeks1000/butterkeks1000?label=LAST%20UPDATED&style=for-the-badge">
