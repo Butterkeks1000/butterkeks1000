@@ -1,7 +1,7 @@
 # Hey there <img src="https://raw.githubusercontent.com/Butterkeks1000/butterkeks1000/main/wave.gif" width="25px">
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?color=2076B1&size=20&center=true&vCenter=true&lines=Just+looking+around+a+bit.">
+ <img src="https://readme-typing-svg.herokuapp.com?color=3442D9&size=24&center=true&lines=Servus">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/butterkeks1000?color=954c9b&label=Follower&logo=Github&style=for-the-badge">
 </p>
 
-- 🏠 I'm from Germany
-- 🌱 Currently I am learning Java & HTML
+- 📍 Germany
+- 🌱 Currently I am learning HTML & javascript
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Butterkeks1000/butterkeks1000?label=Last%20Updated&style=for-the-badge">
