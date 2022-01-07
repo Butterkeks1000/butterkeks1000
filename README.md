@@ -11,6 +11,6 @@
 </p>
 
 - 📍 Germany
-- 🌱 Currently I am learning HTML & JavaScript
+- 🌱 Currently I am learning HTML, CSS & JavaScript
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Butterkeks1000/butterkeks1000?label=LAST%20UPDATED&style=for-the-badge">
