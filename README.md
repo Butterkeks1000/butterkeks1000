@@ -14,3 +14,4 @@
 - 🌱 Currently I am learning HTML, CSS & JavaScript
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/butterkeks1000/butterkeks1000?style=for-the-badge">
+[![wakatime](https://wakatime.com/badge/user/45a1e9ab-a802-4a11-8ccf-884ecd71bd9b.svg)](https://wakatime.com/@45a1e9ab-a802-4a11-8ccf-884ecd71bd9b)
