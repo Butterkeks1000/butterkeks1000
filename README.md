@@ -1,4 +1,4 @@
-# Hey there <img src="https://raw.githubusercontent.com/Butterkeks1000/butterkeks1000/main/wave.gif" width="25px">
+# Hey there!
 
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=3442D9&center=true&lines=Hallo;Bonjour;Hello;hej">
