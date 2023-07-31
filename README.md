@@ -8,7 +8,6 @@
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/butterkeks1000?color=954c9b&label=Follower&logo=Github&style=for-the-badge">
 </p>
 
-- 👀
 - 🌱 Currently I am learning Python 🐍
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/butterkeks1000/butterkeks1000?style=for-the-badge">
